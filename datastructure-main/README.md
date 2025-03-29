@@ -41,7 +41,7 @@ An interactive web application for learning data structures through visual anima
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/CubeStar1/ds-visualizer.git
+git clone https://github.com/sud3801/BITSHyd/ds-visualizer.git
 cd ds-visualizer
 ```
 
